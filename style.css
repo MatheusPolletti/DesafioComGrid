@@ -188,7 +188,7 @@ main
         display: grid;
 
         grid-template-columns: repeat(21, 1fr);
-        grid-template-rows: repeat(20, 1.4vh);
+        grid-template-rows: repeat(20, 2.4vh);
 
         gap: 27px;
     }
